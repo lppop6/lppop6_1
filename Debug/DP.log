@@ -1,0 +1,15 @@
+﻿  Reading Qt configuration (E:\QT\5.12.6\msvc2017\bin\qmake.exe)
+  'WHERE' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
+  moc SUB_IQA_1.h
+  Control_604.cpp
+  DP.cpp
+  SUB_IQA_1.cpp
+  main.cpp
+F:\C++Space\DP\Control_604.cpp(8,1): warning C4297: 'Control_604::~Control_604': function assumed not to throw an exception but does
+F:\C++Space\DP\Control_604.cpp(8,1): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification
+F:\C++Space\DP\SUB_IQA_1.cpp(91,11): warning C4834: discarding return value of function with 'nodiscard' attribute
+F:\C++Space\DP\DP.cpp(328,12): warning C4834: discarding return value of function with 'nodiscard' attribute
+  moc_DP.cpp
+  moc_SUB_IQA_1.cpp
+  DP.vcxproj -> F:\C++Space\DP\Debug\DP.exe

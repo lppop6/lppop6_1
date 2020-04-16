@@ -1,0 +1,5 @@
+﻿  Control_604.cpp
+F:\C++Space\DP\Control_604.cpp(8,1): warning C4297: 'Control_604::~Control_604': function assumed not to throw an exception but does
+F:\C++Space\DP\Control_604.cpp(8,1): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification
+F:\C++Space\DP\Control_604.cpp(9): warning C4722: 'Control_604::~Control_604': destructor never returns, potential memory leak
+  DP.vcxproj -> F:\C++Space\DP\Release\DP.exe

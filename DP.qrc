@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/DP">
+        <file>Resources/Map.png</file>
+        <file>Resources/Position.png</file>
+        <file>Resources/PrePosition.png</file>
+    </qresource>
+</RCC>

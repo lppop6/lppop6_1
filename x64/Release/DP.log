@@ -1,0 +1,9 @@
+﻿  Reading Qt configuration (ERROR: Qt install dir not found\bin\qmake.exe)
+  'WHERE' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
+DP.vcxproj : error : ERROR running qmake
+DP.vcxproj : error : qmake: (ERROR: Qt install dir not found\bin\qmake.exe)
+DP.vcxproj : error : qmake: $PWD=C:\Users\15880\AppData\Local\Temp\gt0qy2hk.mus
+DP.vcxproj : error : qmake: �ļ�����Ŀ¼�������﷨����ȷ��
+DP.vcxproj : error : qmake: Error creating Makefile
+DP.vcxproj : error : 
